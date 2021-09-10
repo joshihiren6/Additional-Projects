@@ -1,0 +1,4 @@
+Web is made in Php with CodeIgniter
+App is made in Native Android using JAVA
+
+Bugs and Edits to be made are given in excel attached
